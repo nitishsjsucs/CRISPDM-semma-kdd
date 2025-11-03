@@ -9,15 +9,24 @@ This repository contains three comprehensive data science projects, each impleme
 - **Phases**: Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment
 - **Location**: `./CRISP-DM/`
 
+### CRISP-DM medium article:
+https://medium.com/@nitish.ratakonda/predicting-customer-churn-using-crisp-dm-methodology-a-complete-guide-e8c4b408680d
+
 ### 2. SEMMA (Sample, Explore, Modify, Model, Assess)
 - **Dataset**: Credit Card Fraud Detection
 - **Phases**: Sample → Explore → Modify → Model → Assess
 - **Location**: `./SEMMA/`
 
+### SEMMA medium article:
+https://medium.com/@nitish.ratakonda/detecting-credit-card-fraud-with-semma-from-99-8-imbalance-to-94-precision-6f34692a691f
+
 ### 3. KDD (Knowledge Discovery in Databases)
 - **Dataset**: E-commerce Product Recommendation
 - **Phases**: Selection → Preprocessing → Transformation → Data Mining → Interpretation/Evaluation
 - **Location**: `./KDD/`
+
+### KDD medium article:
+https://medium.com/@nitish.ratakonda/building-an-e-commerce-recommendation-engine-with-kdd-methodology-0daab7eb6df3
 
 ## 🎯 Assignment Requirements
 
