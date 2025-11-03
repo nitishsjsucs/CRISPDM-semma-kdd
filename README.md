@@ -28,6 +28,9 @@ https://medium.com/@nitish.ratakonda/detecting-credit-card-fraud-with-semma-from
 ### KDD medium article:
 https://medium.com/@nitish.ratakonda/building-an-e-commerce-recommendation-engine-with-kdd-methodology-0daab7eb6df3
 
+### Youtube Link
+https://youtu.be/G35ksEZhbwY
+
 ## 🎯 Assignment Requirements
 
 Each methodology project includes:
